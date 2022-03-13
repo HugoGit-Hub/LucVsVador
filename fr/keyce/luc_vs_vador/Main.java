@@ -264,7 +264,6 @@ public class Main {
         System.out.println();
 
         if (!(choice.equals("q"))) {
-
             while (life_point_f1 > 0 && life_point_f2 > 0 && !(choice.equals("q"))) {
 
                 double jet_initiative_fighter_1 = Math.random();
